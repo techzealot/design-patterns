@@ -1,4 +1,4 @@
-package com.techzealot.patterns.visitor;
+package com.techzealot.patterns.behavior.visitor;
 
 public class XMLExportVisitor implements ShapeVisitor {
 

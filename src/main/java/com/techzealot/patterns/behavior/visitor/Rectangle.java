@@ -1,4 +1,4 @@
-package com.techzealot.patterns.visitor;
+package com.techzealot.patterns.behavior.visitor;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
